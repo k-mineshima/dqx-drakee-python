@@ -1,0 +1,7 @@
+databases:
+  mysql:
+    driver: mysql
+    host: database.it-finne.com
+    database: dqx_drakee
+    user: dqx_drakee_user
+    password: dqx_drakee_user_admin

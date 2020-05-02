@@ -1,0 +1,23 @@
+# intellij idea
+/.idea
+
+# application settings
+application.yaml
+
+# database settings
+database.yaml
+
+# logs
+/logs
+
+# venv
+/venv
+
+# pycache
+__pycache__
+
+# tmp
+deploy.bat
+upload.bat
+start.bat
+stop.bat
